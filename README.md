@@ -2,6 +2,7 @@
 Computational Physics homework code
 
 Table of Contents:
+
 hw1:  1. Interpolation
       2. Finite-difference derivatives
       3. Integration using Simpson's rule
