@@ -1,0 +1,9 @@
+X0 = 0.916446
+l = 1
+C = 0.0377077
+Integral value = 0.333358
+Std Deviation = 9.04923e-05
+l = 2
+C = 0.00160032
+Integral value = 0.333342
+Std Deviation = 0.000127964
