@@ -1,0 +1,10 @@
+CC=g++
+CFLAGS=-std=c++11
+SOURCES=2.cpp
+OBJECTS=$(SOURCES:.c=.o)
+EXECUTABLE=2
+
+all: $(SOURCES) $(EXECUTABLE)
+
+$(EXECUTABLE): $(OBJECTS)
+	$(CC) $(CFLAGS) $< -o $@
